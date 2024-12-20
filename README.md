@@ -4,6 +4,8 @@ A Planilha Inteligente é um projeto desenvolvido no Microsoft Excel que oferece
 
 ![image](https://github.com/user-attachments/assets/01d113c8-0cb0-4bbe-aa6b-2dbea435a9d5)
 
+https://1drv.ms/x/c/35c4f7bb933eb667/EaMTvGNhVxFKg0972-g79woBxh4E5vxiipysQyXif09FNg?e=pzesg6
+
 ## Funcionalidades
 
 * **Planilha de Dados:** Estruturação de dados em formato tabular, facilitando a organização e manutenção.
